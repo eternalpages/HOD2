@@ -1,0 +1,1 @@
+Upload toàn bộ index.html và thư mục images lên cùng một repository GitHub. Bật GitHub Pages từ nhánh main, thư mục /(root).
